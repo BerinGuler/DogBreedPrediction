@@ -18,3 +18,7 @@ Pictures number for breed classification is 10222 and there is 120 different bre
 Activation function: Relu & Softmax
 Loss: Categorical Cross Entropy
 Optimizer: Adam
+
+
+![image](https://user-images.githubusercontent.com/44702493/177051491-472dc7b1-5d53-4154-9b4c-5bf168cab464.png)
+![image](https://user-images.githubusercontent.com/44702493/177051501-3d6409ce-e2d3-4761-88f1-977a19e29de4.png)
