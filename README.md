@@ -19,6 +19,8 @@ Activation function: Relu & Softmax
 Loss: Categorical Cross Entropy
 Optimizer: Adam
 
+After all processes we will have one local application and it shows us the breed of dog that we uploaded. 
+
 
 ![image](https://user-images.githubusercontent.com/44702493/177051491-472dc7b1-5d53-4154-9b4c-5bf168cab464.png)
 ![image](https://user-images.githubusercontent.com/44702493/177051501-3d6409ce-e2d3-4761-88f1-977a19e29de4.png)
